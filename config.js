@@ -13,11 +13,11 @@ module.exports = {
 
   // Use the REMOTE_TARGET_URL file as target, otherwise it's gonna just
   // try to read from target.bmp
-  autoupdateRemoteTarget: true,
+  autoupdateRemoteTarget: false,
 
   // Wait until these amount of accounts are available
   // and paint pixels at the same time
-  bundleAccounts: 4,
+  bundleAccounts: 1,
 
   // Do not send the painting to the server so you don't waste your pixels
   // while testing something else
