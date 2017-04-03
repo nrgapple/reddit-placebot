@@ -7,7 +7,7 @@ module.exports = {
   REMOTE_TARGET_URL: 'https://raw.githubusercontent.com/Zequez/placebot-argentina-target/master/official_target.bmp',
   REMOTE_TARGET_FILE: __dirname + '/tmp/target.bmp',
 
-  LOCAL_TARGET_FILE: __dirname + '/images/target.bmp',
+  LOCAL_TARGET_FILE: __dirname + '/images/iupTOpsu.bmp',
 
   DRAW_URL: 'https://www.reddit.com/api/place/draw.json',
 
